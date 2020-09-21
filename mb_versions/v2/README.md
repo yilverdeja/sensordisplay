@@ -4,6 +4,7 @@ This is the second version of the Main Board PCB for the sensor display.
 ## Changes from v1
 * Removed second header for sensor module since it isn't necessary for this current PCB
 * Removed Test Points and replaced it with a 2x4 female header since it's less clunky
+* Exposed the transmission pins (TX/RX)
 * Added a top and bottom copper area.
 
 ## Top View
