@@ -1,5 +1,5 @@
 # Main Board v2
-This is the third version of the Main Board PCB for the sensor display.
+This is the second version of the Main Board PCB for the sensor display.
 
 ## Changes from v1
 * Removed second header for sensor module since it isn't necessary for this current PCB
