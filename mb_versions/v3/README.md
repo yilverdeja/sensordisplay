@@ -6,6 +6,7 @@ This is the third version of the Main Board PCB for the sensor display.
 * The USB was replaced to avoid clearance errors from the footprint that was being previously
 * The button was not available on LCSC, therefore it was changed to one that was in stock.
 * The LED was changed to have a forward voltage of 2.2V and the LED resistor values were changed to obtain the forward current of 20mA.
+* The copper ground area was fixed. 
 
 ## Top View
 ![alt text][topview]
