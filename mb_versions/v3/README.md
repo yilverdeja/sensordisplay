@@ -3,10 +3,10 @@ This is the third version of the Main Board PCB for the sensor display.
 
 ## Changes from v2
 * Female Header was changed to a 2x6 to expose SPI pins (SCK, MOSI, MISO) and RESET to be able to burn the Arduino Bootloader onto the ATMEGA2560.
-* The USB was replaced to avoid clearance errors from the footprint that was being previously
+* The USB was replaced to avoid clearance errors from the footprint that was being used in PCB v2.
 * The button was not available on LCSC, therefore it was changed to one that was in stock.
 * The LED was changed to have a forward voltage of 2.2V and the LED resistor values were changed to obtain the forward current of 20mA.
-* The copper ground area was fixed. 
+* The copper ground area was fixed to fit the whole board. 
 
 ## Top View
 ![alt text][topview]
